@@ -256,7 +256,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className={styles.footer}>Made with &#10084; by Your Name</footer>
+      <footer className={styles.footer}>Made with &#10084; by IamGalexing</footer>
     </div>
   );
 }
